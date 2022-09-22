@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="name">Naiyu Deng</string>
+    <string name="title">Physics student</string>
+    <string name="interested">Interested into: Blender, deep learning, data analysis and anime</string>
+    <string name="phonenumber">+040 5875857</string>
+    <string name="email">naiyu_deng@hotmail.com</string>
+    <string name="socialmediahandle">\@absolute7070</string>
+</resources>
